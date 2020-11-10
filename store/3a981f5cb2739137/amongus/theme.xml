@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="amongus" name="Among Us" cc_theme_id="amongus">
+	<compositebg id="ncc_pet_04" name="Cave" enable="Y" default="N" thumb="ncc_pet_04bg.jpg" display_order="100" is_premium="N" money="0" sharing="0" aid="12450">
+		<bg id="ncc_pet_04_BG813" index="0">
+			<file>animal.ncc_pet_04bg.swf</file>
+		</bg>
+		<prop id="ncc_pet_04_PROP26" index="1">
+			<file>animal.ncc_pet_04prop.swf</file>
+			<x>510.8</x>
+			<y>176.1</y>
+			<xscale>1</xscale>
+			<yscale>1</yscale>
+			<face>1</face>
+			<rotation>0</rotation>
+		</prop>
+	</compositebg>
+</theme>
